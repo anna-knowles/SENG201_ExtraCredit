@@ -4,6 +4,10 @@ def divide_numbers(a, b):
     """Divides two numbers and returns the result."""
     return a / b  # Potential division by zero error
 
+def multiply_numbers(a, b):
+    """Multiplies two numbers and returns the result."""
+    return a * b
+
 if __name__ == "__main__":
     x = 10
     y = 0
