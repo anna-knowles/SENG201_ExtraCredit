@@ -1,4 +1,5 @@
 # math_operations.py
+# Created by: Anna Knowles
 
 def divide_numbers(a, b):
     """Divides two numbers and returns the result."""
