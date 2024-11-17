@@ -13,3 +13,6 @@ if __name__ == "__main__":
     y = 0
     result = divide_numbers(x, y)
     print(f"The result of division is: {result}")
+
+    productResult = multiply_numbers(x, y)
+    print(f"The result of multiplication is: {productResult}")
